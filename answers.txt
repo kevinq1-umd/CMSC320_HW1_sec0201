@@ -7,3 +7,6 @@ Q2: What field could data science be applied to? Give an Example.
 
 Answers: Data Science could be applied to almost any other field, as it has so many applications. One field that may benefit greatly from the application of data science is the field of economics.
 
+Q3: What is the difference between Merging and Rebasing?
+
+Answers: While merge preserves version history for both branches, rebasing overwrites a branch's history entirely.
